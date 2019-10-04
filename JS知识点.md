@@ -563,5 +563,6 @@ parseInt（x，10）将x用十进制来表示
   continue
 
   - ​	continue关键字跳过当次循环，默认对离他近的循环起作用
+  
 
      																																						
